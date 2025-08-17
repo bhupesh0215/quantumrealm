@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color block_blue
+color block_green
+color block_orange
+color block_purple
+color block_red
+color block_teal
+color game_background
+color ui_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ColorCascade
+style Theme.ColorCascade
+xml backup_rules
+xml data_extraction_rules
