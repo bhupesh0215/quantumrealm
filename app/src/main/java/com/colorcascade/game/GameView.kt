@@ -5,14 +5,21 @@ import android.graphics.*
 import android.view.MotionEvent
 import android.view.SurfaceHolder
 import android.view.SurfaceView
+import kotlin.math.*
+import kotlin.random.Random
 
 class GameView(context: Context) : SurfaceView(context), SurfaceHolder.Callback {
     
     private var gameThread: GameThread? = null
     private lateinit var gameEngine: GameEngine
     
-    // Paint objects for different elements
+    // Enhanced paint objects
     private val blockPaint = Paint().apply {
+        isAntiAlias = true
+        style = Paint.Style.FILL
+    }
+    
+    private val glowPaint = Paint().apply {
         isAntiAlias = true
         style = Paint.Style.FILL
     }
@@ -35,14 +42,36 @@ class GameView(context: Context) : SurfaceView(context), SurfaceHolder.Callback 
         color = Color.parseColor("#2C3E50")
     }
     
+    private val gradientPaint = Paint().apply {
+        isAntiAlias = true
+        style = Paint.Style.FILL
+    }
+    
     // Touch handling
     private var lastTouchX = 0f
     private var lastTouchY = 0f
     private var touchStartTime = 0L
+    private var isLongPress = false
+    
+    // Visual effects
+    private var backgroundOffset = 0f
+    private val stars = mutableListOf<Star>()
+    
+    data class Star(var x: Float, var y: Float, var brightness: Float, var speed: Float)
     
     init {
         holder.addCallback(this)
         isFocusable = true
+        
+        // Generate background stars
+        repeat(50) {
+            stars.add(Star(
+                x = Random.nextFloat() * 1000,
+                y = Random.nextFloat() * 2000,
+                brightness = Random.nextFloat(),
+                speed = Random.nextFloat() * 50 + 25
+            ))
+        }
     }
     
     override fun surfaceCreated(holder: SurfaceHolder) {
