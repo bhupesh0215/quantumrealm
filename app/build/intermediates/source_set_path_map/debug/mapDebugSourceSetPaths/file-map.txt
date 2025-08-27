@@ -28,10 +28,10 @@ com.colorcascade.game.app-jetified-lifecycle-viewmodel-ktx-2.7.0-26 /Users/bhupe
 com.colorcascade.game.app-lifecycle-livedata-2.7.0-27 /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/f33c5bce1aab5435bd60a473bc5207f4/transformed/lifecycle-livedata-2.7.0/res
 com.colorcascade.game.app-lifecycle-runtime-2.7.0-28 /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/fca40ed6a1a7c25427b28881888ae5e4/transformed/lifecycle-runtime-2.7.0/res
 com.colorcascade.game.app-jetified-emoji2-views-helper-1.2.0-29 /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/fe776e3f4c7a07f109e778fb398b84b3/transformed/jetified-emoji2-views-helper-1.2.0/res
-com.colorcascade.game.app-pngs-30 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/build/generated/res/pngs/debug
-com.colorcascade.game.app-resValues-31 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/build/generated/res/resValues/debug
-com.colorcascade.game.app-packageDebugResources-32 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.colorcascade.game.app-packageDebugResources-33 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.colorcascade.game.app-debug-34 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.colorcascade.game.app-debug-35 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/debug/res
-com.colorcascade.game.app-main-36 /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/res
+com.colorcascade.game.app-pngs-30 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/build/generated/res/pngs/debug
+com.colorcascade.game.app-resValues-31 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/build/generated/res/resValues/debug
+com.colorcascade.game.app-packageDebugResources-32 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.colorcascade.game.app-packageDebugResources-33 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.colorcascade.game.app-debug-34 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.colorcascade.game.app-debug-35 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/debug/res
+com.colorcascade.game.app-main-36 /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/res

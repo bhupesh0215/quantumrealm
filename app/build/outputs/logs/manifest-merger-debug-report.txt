@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [com.google.android.material:material:1.11.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/bfee8832ac34784c8a1549385e93c9f3/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/2cb248476f5e0d545fe99464c1f8c6b0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/b84a6e20035410be2451027686623b1d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -49,18 +49,18 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bhupeshkumarsingh/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/73ff26751a78246be40b489f3268c3c1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/d5f403eb808c3f89f097b7fa63a8de89/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:5:5-25:19
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:5:5-25:19
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:5:5-25:19
 MERGED from [com.google.android.material:material:1.11.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/bfee8832ac34784c8a1549385e93c9f3/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/bfee8832ac34784c8a1549385e93c9f3/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/2cb248476f5e0d545fe99464c1f8c6b0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -78,51 +78,51 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/bhupeshkum
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/1a023d40e94b49ebf815453562d4e12b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/1a023d40e94b49ebf815453562d4e12b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/021b72d60c353837a221071fa58c090a/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:13:9-50
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:13:9-50
 	android:dataExtractionRules
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:7:9-65
 activity#com.colorcascade.game.MainActivity
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:15:9-24:20
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:15:9-24:20
 	android:screenOrientation
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:18:13-49
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:18:13-49
 	android:exported
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:19:13-54
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:19:13-54
 	android:name
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
-INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.11.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/bfee8832ac34784c8a1549385e93c9f3/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/bfee8832ac34784c8a1549385e93c9f3/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/2cb248476f5e0d545fe99464c1f8c6b0/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
@@ -212,9 +212,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/d5f403eb808c3f89f097b7fa63a8de89/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/d5f403eb808c3f89f097b7fa63a8de89/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/game-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupeshkumarsingh/apps/android/game/quantumrealm/quantumrealm/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/8d60737493259b162d35730e5a259be2/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/55669b0431f0cec6c8fc00c4d495d0a4/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
