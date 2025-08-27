@@ -460,7 +460,7 @@ class GameView(context: Context) : SurfaceView(context), SurfaceHolder.Callback 
         val buttonY = uiArea + 5f
         
         val buttonPaint = Paint().apply {
-            color = if (gameEngine.canUsePowerUp()) Color.GREEN else Color.DARK_GRAY
+            color = if (gameEngine.canUsePowerUp()) Color.GREEN else Color.GRAY
             style = Paint.Style.FILL
         }
         
