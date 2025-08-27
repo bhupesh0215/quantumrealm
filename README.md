@@ -164,6 +164,65 @@ Color Cascade Enhanced/
 - **Build Time**: ~6 seconds
 - **Issues Resolved**: Fixed Color.DARK_GRAY compatibility issue
 
+### 📱 **Testing & Installation**
+
+#### Install on Device/Emulator
+```bash
+# Connect Android device via USB or start an emulator, then:
+./gradlew installDebug
+
+# Or manually install the APK:
+adb install app/build/outputs/apk/debug/app-debug.apk
+```
+
+#### Available Emulators
+- Pixel_3a_API_34_extension_level_7_arm64-v8a
+- Pixel_Tablet
+- Medium_Tablet
+- 7_WSVGA_Tablet
+
+#### Start Emulator
+```bash
+# Add Android SDK to PATH
+export PATH=$PATH:~/Library/Android/sdk/emulator:~/Library/Android/sdk/platform-tools
+
+# Start emulator
+emulator -avd Pixel_3a_API_34_extension_level_7_arm64-v8a
+
+# Install app
+./gradlew installDebug
+```
+
+#### 🧪 **Testing Checklist**
+When testing the app, verify these features:
+
+**Basic Functionality:**
+- [ ] App launches without crashes
+- [ ] Game view renders correctly
+- [ ] Touch controls are responsive
+- [ ] Blocks fall at appropriate speed
+
+**Special Blocks:**
+- [ ] 💣 Bomb blocks explode nearby blocks
+- [ ] 🌈 Rainbow blocks match with any color
+- [ ] ×2 Multiplier blocks double scoring
+- [ ] ⬇ Gravity blocks increase fall speed
+- [ ] 🔄 Transformer blocks change colors
+
+**Game Systems:**
+- [ ] Combo system tracks consecutive merges
+- [ ] Power-up system charges and activates
+- [ ] Score increases appropriately
+- [ ] Level progression works
+- [ ] Game over state handles correctly
+
+**Visual Effects:**
+- [ ] Particle effects display on merges
+- [ ] Special blocks have glow effects
+- [ ] Background animates correctly
+- [ ] UI elements render properly
+- [ ] Screen orientates to portrait correctly
+
 ## � **What's New vs Original**
 
 | Feature | Original | Enhanced |

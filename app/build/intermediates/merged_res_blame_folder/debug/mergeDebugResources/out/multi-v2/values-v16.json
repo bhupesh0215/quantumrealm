@@ -4,7 +4,7 @@
             "outputFile": "com.colorcascade.game.app-mergeDebugResources-32:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/5efb9128433211ae3c6c654da648835d/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/021b72d60c353837a221071fa58c090a/transformed/core-1.12.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/c1c800d014f07b5879338e2b8b57ce87/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/bhupeshkumarsingh/.gradle/caches/8.13/transforms/3fab0d6c71f735942947b270cbec7d57/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
