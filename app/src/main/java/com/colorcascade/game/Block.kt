@@ -80,6 +80,23 @@ data class Block(
         val distance = kotlin.math.sqrt(
             ((x - other.x) * (x - other.x) + (y - other.y) * (y - other.y)).toDouble()
         ).toFloat()
-        return distance <= size && color == other.color
+        return distance <= size && (color == other.color || type == BlockType.RAINBOW || other.type == BlockType.RAINBOW)
+    }
+    
+    fun getDistanceTo(other: Block): Float {
+        return kotlin.math.sqrt(
+            ((x - other.x) * (x - other.x) + (y - other.y) * (y - other.y)).toDouble()
+        ).toFloat()
+    }
+    
+    fun isSpecial(): Boolean = type != BlockType.NORMAL
+    
+    fun getEffectiveColor(): Int {
+        return if (type == BlockType.RAINBOW) {
+            // Rainbow blocks can match any color
+            Color.WHITE
+        } else {
+            color
+        }
     }
 }
